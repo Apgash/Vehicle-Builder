@@ -400,7 +400,7 @@ class Cli {
                 console.log("This action is only available for trucks");
               }
             }
-          }
+          } return;
         }
 
         // TODO: add statements to perform the wheelie action only if the selected vehicle is a motorbike
