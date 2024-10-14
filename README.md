@@ -12,9 +12,7 @@ This code is purely used in the command line. It is a vehicle creator where you 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [Tests](#tests)
 - [Questions](#questions)
-- [License](#license)
 
 ## Installation
 You just have to download the code or copy it into your local device!
